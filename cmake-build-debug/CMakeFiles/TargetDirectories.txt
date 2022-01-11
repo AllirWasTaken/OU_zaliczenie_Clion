@@ -1,0 +1,3 @@
+C:/Users/Intel/Desktop/zaliczenieclion/cmake-build-debug/CMakeFiles/zaliczenieclion.dir
+C:/Users/Intel/Desktop/zaliczenieclion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Intel/Desktop/zaliczenieclion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
